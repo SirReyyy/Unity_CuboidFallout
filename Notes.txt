@@ -1,0 +1,15 @@
+Cubo Box Fallout
+
+- Scoring System
+	- score runtime
+	- gems
+- Main Menu
+	- Classic
+	- Reverse
+	- Help
+	- Exit
+- Android Support
+	- Touch Capability
+- Others
+	- Ads
+	- GooglePlay
